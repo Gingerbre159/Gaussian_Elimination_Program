@@ -4,17 +4,12 @@
 # TJ Carter <br>
 # 10/9/20
 
-# In this file I will write a function that solves the matrix equation Ax = b using Gaussian Elimination. My function will accept as input a n-by-n matrix A and an n-by-1 vector b, and it should produce a n-by-1 vector x that satisfies Ax = b.
-
-# In[1]:
+# In this file is a function that solves the matrix equation Ax = b using Gaussian Elimination. This function will accept as input an n-by-n matrix A and an n-by-1 vector b, and it should produce a n-by-1 vector x that satisfies Ax = b.
 
 
 # Imports
 
 import random
-
-
-# In[2]:
 
 
 # Functions
@@ -61,9 +56,6 @@ def GaussianElimination(A, b, n):
     
     
     return x
-
-
-# In[3]:
 
 
 # Main
