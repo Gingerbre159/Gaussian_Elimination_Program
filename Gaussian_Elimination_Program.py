@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# TJ Carter <br>
+# Thomas Carter <br>
 # 10/9/20
 
 # In this file is a function that solves the matrix equation Ax = b using Gaussian Elimination. This function will accept as input an n-by-n matrix A and an n-by-1 vector b, and it should produce a n-by-1 vector x that satisfies Ax = b.
